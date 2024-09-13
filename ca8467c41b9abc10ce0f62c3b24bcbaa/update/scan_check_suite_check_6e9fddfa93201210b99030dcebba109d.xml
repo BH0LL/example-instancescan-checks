@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="scan_check_suite_check">
+    <scan_check_suite_check action="INSERT_OR_UPDATE">
+        <check display_value="Business rules should not use current.update()">bd68e1cabc0330107f448f0d49361473</check>
+        <score_weight>1</score_weight>
+        <suite display_value="Example Checks">2b7f1dfa93201210b99030dcebba1018</suite>
+        <sys_class_name>scan_check_suite_check</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-13 17:11:13</sys_created_on>
+        <sys_id>6e9fddfa93201210b99030dcebba109d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Example Instance Checks" source="x_appe_exa_checks">ca8467c41b9abc10ce0f62c3b24bcbaa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Example Instance Checks">ca8467c41b9abc10ce0f62c3b24bcbaa</sys_scope>
+        <sys_update_name>scan_check_suite_check_6e9fddfa93201210b99030dcebba109d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-13 17:11:13</sys_updated_on>
+    </scan_check_suite_check>
+</record_update>
